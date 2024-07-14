@@ -1,6 +1,7 @@
 # Doctor Reservation API and Dashboard (Laravel 8.0)
 
 This project combines a RESTful API and a sophisticated dashboard built with Laravel 8.0 and PHP 7.4.2 for making doctor reservations. It simplifies the process of booking appointments with doctors in Semarang while providing an interactive dashboard for managing the system.
+This project uses the [Argon Dashboard Laravel](https://www.creative-tim.com/live/argon-dashboard-laravel), which provides a easy development and good user interface for dashboard.
 
 ## Table of Contents
 
